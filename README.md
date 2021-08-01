@@ -1,2 +1,2 @@
 # python-kalkulator
-Program kalkulator sederhana
+Program kalkulator sederhana dengan mengunakan tkinter
